@@ -1,0 +1,5 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+11:39:50	49274/49274	---MCZ	200	added ('OK')	text/html	date:Thu,%2011%20Apr%202024%2006:10:10%20GMT	https://sites.google.com/view/airport-asgames/home	C:/My%20Web%20Sites/njc/sites.google.com/view/airport-asgames/home.html	(from )
+11:39:50	77/77	---MCZ	200	added ('OK')	text/plain	date:Thu,%2011%20Apr%202024%2006:10:10%20GMT	https://sites.google.com/robots.txt		(from )
+11:39:51	354105/354105	---M--	200	added ('OK')	image/jpeg	date:Tue,%2027%20Jun%202023%2004:48:00%20GMT	https://ssl.gstatic.com/atari/images/label-maker-header-cropped.jpg	C:/My%20Web%20Sites/njc/ssl.gstatic.com/atari/images/label-maker-header-cropped.jpg	(from https://sites.google.com/view/airport-asgames/home)
+11:39:51	15101/15101	---M--	200	added ('OK')	text/javascript	etag:%22d5e72094c312cc22%22	https://apis.google.com/js/client.js?onload=gapiLoaded	C:/My%20Web%20Sites/njc/apis.google.com/js/clientc932.js	(from https://sites.google.com/view/airport-asgames/home)
